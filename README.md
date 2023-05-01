@@ -16,8 +16,13 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Eu tenho experi�
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=IgorRIbeiro-S&show_icons=true&theme=dracula)
 
 ## Como me encontrar
-- [Email](igor_rsilva97@hotmail.com)
-- [Perfil do LinkedIn](https://www.linkedin.com/in/igor-ribeiro-8571a6210/)
+<p align="center">
+  <a href="mailto:igor_rsilva97@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-igor_rsilva97%40hotmail.com-%23C14438?style=flat-square&logo=gmail&logoColor=white" />
+  </a>-
+    <a href="https://www.linkedin.com/in/igor-ribeiro-8571a6210/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-IgorRibeiro-%230077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 
 ## Projetos
 - [Projeto - Feedbacker](https://github.com/IgorRibeiro-S/Feedbacker)
