@@ -29,7 +29,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Eu tenho experi�
 
 
 ## 📚 Artigos
-- [Portfólio - Em construção](https://github.com/IgorRibeiro-S/bertoti/blob/main/MetodologiaCientifica/README2.md)
+- [Portfólio](https://github.com/IgorRibeiro-S/bertoti/blob/main/MetodologiaCientifica/README2.md)
 
 ## 🌱 Aprendendo atualmente
 - Aprendendo mais sobre Docker, Kubernetes e Kafka
